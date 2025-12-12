@@ -27,15 +27,15 @@
 
 
  
-## 📊 GitHub Info
+## 📊 GitHub Stats
 
-### 🔥 Most Used Languages (quick)
-[![Top Languages](https://img.shields.io/badge/Top%20Languages-Visit%20Profile-lightgrey?style=flat-square)](https://github.com/upo2201?tab=repositories)
+<p align="left">
+  <img src="./assets/github-top-langs.svg" alt="Most Used Languages" height="150" />
+</p>
 
-### 🌟 GitHub Stats (quick)
-[![Followers](https://img.shields.io/github/followers/upo2201?label=Followers&style=flat-square)](https://github.com/upo2201)
-[![Profile Views](https://komarev.com/ghpvc/?username=upo2201&style=flat-square)](https://github.com/upo2201)
-[![GitHub Stars](https://img.shields.io/github/stars/upo2201?affiliations=OWNER&style=flat-square)](https://github.com/upo2201?tab=repositories)
+<p align="left">
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+</p>
 
 
 
