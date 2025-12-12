@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Upolobdhi</h1>
+<h3 align="center">An enthusiastic learner and developer, growing one project at a time</h3>
+ 
 
-<!--
-**upo2201/upo2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+🚀 I’m currently working on C, Python, and small Web Dev projects  
+🌼 Learning and exploring Web Development (HTML, CSS, JS)  
+💡 Feel free to ask me about C programming, arrays, pointers, logic building, and beginner DS  
+🎯 My goal: Build real-world products that blend creativity & tech  
+📫 How to reach me: upolobdhik@gmail.com  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧰 Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
+</p>
+
+
+
+## 🧩 Hobbies & Interests  
+📚 Exploring technology 
+🎤 Singing   
+🖋️ Writing stories & reflections  
+🎧 Listening to music  
+🎨 Creating aesthetic digital ideas & concepts  
+
+
+
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=upo2201&show_icons=true&theme=rose_pine" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upo2201&layout=compact&theme=rose_pine" height="160" />
+</p>
+
+
+
+## 🏆 GitHub Trophies  
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=upo2201&theme=rose_pine&margin-w=10" />
+</p>
+
+
+
+## 🔗 Let's Connect!  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/upolobdhi-karmakar-3497b732a/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upolobdhik@gmail.com)
