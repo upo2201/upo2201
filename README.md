@@ -27,10 +27,13 @@
 
 
  
-## 📊 Quick GitHub Info
-[![Followers](https://img.shields.io/github/followers/upo2201?label=Followers&style=flat-square)](https://github.com/upo2201)
-[![Repos](https://img.shields.io/github/repo-count/upo2201?style=flat-square)](https://github.com/upo2201?tab=repositories)
-[![Top Langs](https://img.shields.io/badge/top-langs-visit%20profile-lightgrey?style=flat-square)](https://github.com/upo2201)
+## 📊 GitHub Info
+### ⭐ GitHub Stats
+[![GitHub Stats](https://img.shields.io/badge/View-Stats-rose?style=flat-square)](https://github.com/upo2201)
+
+### 📚 Most Used Languages
+[![Top Languages](https://img.shields.io/badge/Top%20Languages-Check%20Profile-lightgrey?style=flat-square)](https://github.com/upo2201?tab=repositories)
+
 
 
 
