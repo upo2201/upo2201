@@ -27,12 +27,18 @@
 
 
  
-## 📊 GitHub Info
-### ⭐ GitHub Stats
-[![GitHub Stats](https://img.shields.io/badge/View-Stats-rose?style=flat-square)](https://github.com/upo2201)
+## 📊 GitHub Stats
 
-### 📚 Most Used Languages
-[![Top Languages](https://img.shields.io/badge/Top%20Languages-Check%20Profile-lightgrey?style=flat-square)](https://github.com/upo2201?tab=repositories)
+### 🔥 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upo2201&layout=compact&theme=dark&custom_title=Most%20Used%20Languages" />
+</p>
+
+### 🌟 Upolobdhi's GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=upo2201&show_icons=true&theme=dark&custom_title=Upolobdhi's%20GitHub%20Stats" />
+</p>
+
 
 
 
