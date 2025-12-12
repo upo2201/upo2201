@@ -27,18 +27,10 @@
 
 
  
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=upo2201&show_icons=true&theme=rose_pine&cache_seconds=3600" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upo2201&layout=compact&theme=rose_pine&cache_seconds=3600" height="160" />
-</p>
-
-
-  
-## 🏆 GitHub Trophies  
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=upo2201&theme=rose_pine&margin-w=10&no-frame=true" />
-</p>
+## 📊 Quick GitHub Info
+[![Followers](https://img.shields.io/github/followers/upo2201?label=Followers&style=flat-square)](https://github.com/upo2201)
+[![Repos](https://img.shields.io/github/repo-count/upo2201?style=flat-square)](https://github.com/upo2201?tab=repositories)
+[![Top Langs](https://img.shields.io/badge/top-langs-visit%20profile-lightgrey?style=flat-square)](https://github.com/upo2201)
 
 
 
