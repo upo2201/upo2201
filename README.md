@@ -19,29 +19,30 @@
 
 
 ## 🧩 Hobbies & Interests  
-📚 Exploring technology 
-🎤 Singing   
+📚 Exploring technology  
+🎤 Singing  
 🖋️ Writing stories & reflections  
 🎧 Listening to music  
 🎨 Creating aesthetic digital ideas & concepts  
 
 
-
+ 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=upo2201&show_icons=true&theme=rose_pine" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upo2201&layout=compact&theme=rose_pine" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=upo2201&show_icons=true&theme=rose_pine&cache_seconds=3600" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upo2201&layout=compact&theme=rose_pine&cache_seconds=3600" height="160" />
 </p>
 
 
-
+  
 ## 🏆 GitHub Trophies  
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=upo2201&theme=rose_pine&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=upo2201&theme=rose_pine&margin-w=10&no-frame=true" />
 </p>
 
 
 
 ## 🔗 Let's Connect!  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/upolobdhi-karmakar-3497b732a/))  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/upolobdhi-karmakar/)
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upolobdhik@gmail.com)
