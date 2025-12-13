@@ -15,7 +15,7 @@
   />
 </p>
 
----
+
 
 ## 🌱 a little about me  
 - 🚀 currently working on **C, Python**, and small **web dev projects (HTML, CSS, JavaScript)**  
@@ -24,14 +24,14 @@
 - 🎯 my goal is to build **real-world products** that blend creativity with tech  
 - 📫 reach me at: **upolobdhik@gmail.com**
 
----
+
 
 ## 🧰 things i work with  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
 </p>
 
----
+
 
 ## 🎨 life beyond code  
 📚 exploring technology  
@@ -40,7 +40,7 @@
 🎧 listening to music on loop  
 🎨 creating soft, aesthetic digital ideas  
 
----
+
 
 ## 🔗 let’s connect  
 <p align="left">
