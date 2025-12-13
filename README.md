@@ -4,26 +4,30 @@
 </p>
 
 <p align="center">
-  <em>“learning, unlearning, relearning.”</em>
+  <em>“learning, unlearning, relearning 😵‍💫”</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70" alt="cute coding animation" />
+</p>
 
+---
 
 ## 🌱 a little about me  
-- 🚀 currently working on **C, Python**, and small **web dev projects(HTML, CSS, and JavaScript)**  
-- 🌼 learning and exploring **Full stack development** 
+- 🚀 currently working on **C, Python**, and small **web dev projects (HTML, CSS, JavaScript)**  
+- 🌼 learning and exploring **full-stack development**  
 - 💡 you can ask me about **C basics**, arrays, pointers, logic building & beginner DS  
 - 🎯 my goal is to build **real-world products** that blend creativity with tech  
 - 📫 reach me at: **upolobdhik@gmail.com**
 
-
+---
 
 ## 🧰 things i work with  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
 </p>
 
-
+---
 
 ## 🎨 life beyond code  
 📚 exploring technology  
@@ -32,7 +36,7 @@
 🎧 listening to music on loop  
 🎨 creating soft, aesthetic digital ideas  
 
-
+---
 
 ## 🤍 let’s connect  
 <p align="left">
@@ -46,3 +50,4 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
+
