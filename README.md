@@ -1,36 +1,48 @@
-<h1 align="center">Hey there, I'm Upolobdhi 👋</h1>
-<h3 align="center">A curious learner and developer, building and learning one project at a time</h3>
+<h1 align="center">Hi, I’m Upolobdhi 🌷</h1>
+<p align="center">
+  a curious learner & developer, growing gently — one project at a time
+</p>
 
-## 🧑‍💻 About Me  
-🚀 Currently exploring projects in **C, Python**, and beginner-friendly **Web Development**  
-🌱 Diving deeper into **HTML, CSS, and JavaScript**  
-💬 Happy to help with **C programming**, arrays, pointers, logic building, and beginner data structures  
-🎯 Aspiring to create **real-world, meaningful tech solutions** that combine creativity and code  
-📫 Reach me at: **upolobdhik@gmail.com**
+<p align="center">
+  <em>“trying my best, googling the rest.”</em>
+</p>
 
-## 🧰 Languages & Tools  
+---
+
+## 🌱 a little about me  
+- 🚀 currently working on **C, Python**, and small **web dev projects**  
+- 🌼 learning and exploring **HTML, CSS, and JavaScript**  
+- 💡 you can ask me about **C basics**, arrays, pointers, logic building & beginner DS  
+- 🎯 my goal is to build **real-world products** that blend creativity with tech  
+- 📫 reach me at: **upolobdhik@gmail.com**
+
+---
+
+## 🧰 things i work with  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
 </p>
 
-## 🧩 Interests Beyond Code  
-📚 Keeping up with technology and new ideas  
-🎤 Singing and performing  
-🖋️ Writing stories, thoughts, and reflections  
-🎧 Enjoying music  
-🎨 Designing aesthetic digital concepts from scratch
+---
 
-## 🔗 Let’s Connect  
+## 🎨 life beyond code  
+📚 exploring technology  
+🎤 singing (bad days = louder singing)  
+🖋️ writing stories & quiet thoughts  
+🎧 listening to music on loop  
+🎨 creating soft, aesthetic digital ideas  
 
+---
+
+## 🤍 let’s connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/upolobdhi-karmakar/" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/upolobdhi-karmakar/" style="margin: 0 18px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:upolobdhik@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:upolobdhik@gmail.com" style="margin: 0 18px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://github.com/upo2201">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/upo2201" style="margin: 0 18px;">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
-
