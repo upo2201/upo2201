@@ -21,6 +21,15 @@
 🎨 Designing aesthetic digital concepts from scratch
 
 ## 🔗 Let’s Connect  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/upolobdhi-karmakar/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upolobdhik@gmail.com)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/upo2201)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/upolobdhi-karmakar/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:upolobdhik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/upo2201">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
