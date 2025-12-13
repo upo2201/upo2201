@@ -7,11 +7,11 @@
   <em>“learning, unlearning, relearning 😵‍💫”</em>
 </p>
 
-<p align="center" style="margin: 24px 0;">
+<p align="center" style="margin: 28px 0;">
   <img 
-    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
-    width="150" 
-    alt="girl coding with headphones"
+    src="https://media.tenor.com/E73aHdNnj2AAAAAM/yoriko-nikaidou.gif" 
+    width="180" 
+    alt="girl coding animation - Yoriko Nikaidou"
   />
 </p>
 
