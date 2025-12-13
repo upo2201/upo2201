@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I’m Upolobdhi 👋</h1>
 <p align="center">
-  a curious learner & developer, growing gently, one project at a time
+  a curious learner & developer, growing one project at a time
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 
 ## 🌱 a little about me  
-- 🚀 currently working on **C, Python**, and small **web dev projects**  
-- 🌼 learning and exploring **HTML, CSS, and JavaScript**  
+- 🚀 currently working on **C, Python**, and small **web dev projects(HTML, CSS, and JavaScript)**  
+- 🌼 learning and exploring **Full stack development** 
 - 💡 you can ask me about **C basics**, arrays, pointers, logic building & beginner DS  
 - 🎯 my goal is to build **real-world products** that blend creativity with tech  
 - 📫 reach me at: **upolobdhik@gmail.com**
