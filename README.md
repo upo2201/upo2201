@@ -23,13 +23,14 @@
 ## 🔗 Let’s Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/upolobdhi-karmakar/">
+  <a href="https://www.linkedin.com/in/upolobdhi-karmakar/" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:upolobdhik@gmail.com">
+  <a href="mailto:upolobdhik@gmail.com" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/upo2201">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
