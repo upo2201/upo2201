@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70" alt="cute coding animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90" alt="cute coding animation" />
 </p>
 
----
+
 
 ## 🌱 a little about me  
 - 🚀 currently working on **C, Python**, and small **web dev projects (HTML, CSS, JavaScript)**  
@@ -20,14 +20,14 @@
 - 🎯 my goal is to build **real-world products** that blend creativity with tech  
 - 📫 reach me at: **upolobdhik@gmail.com**
 
----
+
 
 ## 🧰 things i work with  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,python,git,github,vscode" />
 </p>
 
----
+
 
 ## 🎨 life beyond code  
 📚 exploring technology  
@@ -36,9 +36,9 @@
 🎧 listening to music on loop  
 🎨 creating soft, aesthetic digital ideas  
 
----
 
-## 🤍 let’s connect  
+
+## 🔗 let’s connect  
 <p align="left">
   <a href="https://www.linkedin.com/in/upolobdhi-karmakar/" style="margin: 0 18px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -50,4 +50,3 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
-
