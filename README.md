@@ -44,7 +44,7 @@
 
 ## 🔗 let’s connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/upolobdhi-karmakar/" style="margin: 0 18px;">
+  <a href="https://www.linkedin.com/in/upolobdhi-karmakar-3497b732a/" style="margin: 0 18px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:upolobdhik@gmail.com" style="margin: 0 18px;">
